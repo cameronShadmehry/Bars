@@ -1,0 +1,6 @@
+HiScore
+50
+MedScore
+20
+LowScore
+10
