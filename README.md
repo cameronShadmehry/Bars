@@ -1,13 +1,13 @@
 # Bars
 The game called Bars.
 
-Download the resources folder and bars2.py and put them in the same folder.
+Download the resources folder and bars.py and put them in the same folder.
 
 Make sure you are running the most up-to-date Python.
 
 If you haven't already, install the libraries: easygui, random, and pygame.
 
-Run bars2.py.
+Run bars.py.
 
 
 
